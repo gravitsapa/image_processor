@@ -1,0 +1,3 @@
+/home/grvtsp/Documents/Projects/image-processor/image_processor/build/CMakeFiles/image_processor.dir
+/home/grvtsp/Documents/Projects/image-processor/image_processor/build/CMakeFiles/edit_cache.dir
+/home/grvtsp/Documents/Projects/image-processor/image_processor/build/CMakeFiles/rebuild_cache.dir
